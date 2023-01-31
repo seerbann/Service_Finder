@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'responsive.dart';
 
+//modificare
 class MainScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
